@@ -1,0 +1,268 @@
+pinkbunny.png
+	size: 2033, 1524
+	filter: Linear, Linear
+	pma: true
+	scale: 0.5
+Face
+	bounds: 754, 443, 320, 379
+Face _Mouth
+	bounds: 478, 162, 39, 31
+Face_Noise
+	bounds: 1990, 390, 41, 44
+Fakeear
+	bounds: 2, 191, 494, 423
+	rotate: 90
+Hair_frowm3
+	bounds: 1266, 77, 115, 255
+	rotate: 90
+Hair_frown1
+	bounds: 478, 23, 137, 259
+	offsets: 2, 0, 139, 259
+	rotate: 90
+Hair_frown2
+	bounds: 1587, 311, 160, 243
+	rotate: 90
+Hair_inside1
+	bounds: 1207, 2, 26, 93
+	rotate: 90
+Hair_inside2
+	bounds: 478, 2, 19, 114
+	offsets: 1, 0, 20, 115
+	rotate: 90
+Hair_sideL
+	bounds: 2, 18, 171, 474
+	rotate: 90
+Hair_sideR
+	bounds: 1447, 1329, 193, 472
+	rotate: 90
+Hair_topside
+	bounds: 1076, 441, 381, 210
+	offsets: 2, 10, 385, 220
+	rotate: 90
+L_ASS
+	bounds: 1940, 604, 100, 59
+	rotate: 90
+L_FakeearP2
+	bounds: 1266, 194, 254, 189
+L_Leg 02
+	bounds: 754, 951, 160, 608
+	offsets: 0, 12, 160, 646
+	rotate: 90
+L_Leg 03
+	bounds: 1864, 1039, 127, 288
+L_Leg01
+	bounds: 754, 1273, 249, 691
+	offsets: 0, 53, 249, 744
+	rotate: 90
+L_arm
+	bounds: 754, 824, 125, 491
+	rotate: 90
+L_balltouch
+	bounds: 480, 687, 72, 49
+	offsets: 5, 6, 80, 65
+L_browse
+	bounds: 1993, 1027, 72, 28
+	rotate: 90
+L_browse _sock
+	bounds: 1302, 7, 94, 21
+	offsets: 0, 1, 95, 23
+L_browse_angry
+	bounds: 1993, 1101, 80, 29
+	offsets: 1, 0, 82, 30
+	rotate: 90
+L_chest
+	bounds: 1626, 473, 207, 202
+L_chest N
+	bounds: 1597, 677, 207, 202
+	rotate: 90
+L_handF
+	bounds: 1523, 52, 67, 163
+	offsets: 0, 0, 72, 168
+	rotate: 90
+L_handN
+	bounds: 1288, 514, 149, 336
+	offsets: 0, 187, 149, 523
+	rotate: 90
+L_hand_F1
+	bounds: 1259, 30, 45, 140
+	rotate: 90
+L_hand_F2
+	bounds: 1912, 436, 70, 99
+	rotate: 90
+L_hand_F3
+	bounds: 1364, 1041, 70, 66
+	rotate: 90
+L_hand_F4
+	bounds: 1918, 112, 71, 40
+L_hand_FN
+	bounds: 1744, 909, 92, 130
+Lear
+	bounds: 1510, 2, 48, 81
+	rotate: 90
+Leye
+	bounds: 1993, 1284, 95, 38
+	rotate: 90
+Leye_Ball F
+	bounds: 1593, 2, 48, 63
+	rotate: 90
+Leye_DownBrown
+	bounds: 1266, 385, 54, 11
+	rotate: 90
+Leye_HeightBrown
+	bounds: 1324, 886, 63, 17
+	rotate: 90
+Leye_brush
+	bounds: 1010, 3, 97, 42
+Leye_mask
+	bounds: 1835, 609, 103, 95
+Leye_mask down
+	bounds: 1888, 322, 97, 51
+	offsets: 10, 0, 108, 75
+Leye_mask top
+	bounds: 1401, 3, 107, 72
+	offsets: 2, 9, 109, 81
+Leye_white
+	bounds: 1909, 54, 71, 56
+Leyep2
+	bounds: 1744, 886, 21, 30
+	rotate: 90
+R_ASS
+	bounds: 1888, 375, 100, 59
+R_FakeearP2
+	bounds: 558, 162, 262, 198
+	rotate: 90
+R_HandN
+	bounds: 558, 426, 194, 407
+	offsets: 0, 0, 194, 409
+R_Hand_F
+	bounds: 1523, 121, 74, 165
+	rotate: 90
+R_Hand_F1
+	bounds: 1832, 347, 54, 124
+	offsets: 0, 0, 54, 127
+R_Hand_F2
+	bounds: 1912, 508, 94, 92
+	offsets: 0, 0, 94, 98
+	rotate: 90
+R_Hand_F3
+	bounds: 480, 738, 95, 76
+	offsets: 0, 0, 95, 88
+	rotate: 90
+R_Hand_F4
+	bounds: 1967, 917, 53, 57
+	offsets: 1, 0, 54, 65
+R_Hand_FM
+	bounds: 1795, 3, 107, 112
+	offsets: 0, 0, 107, 115
+	rotate: 90
+R_arm
+	bounds: 427, 213, 129, 472
+R_balltouch
+	bounds: 1522, 311, 72, 45
+	offsets: 5, 5, 82, 56
+	rotate: 90
+R_browse
+	bounds: 2023, 1028, 71, 8
+	offsets: 0, 0, 73, 8
+	rotate: 90
+R_browse_angry
+	bounds: 1909, 7, 75, 45
+	offsets: 1, 1, 77, 47
+R_browse_sock
+	bounds: 427, 195, 88, 16
+	offsets: 0, 0, 89, 16
+R_chest
+	bounds: 1801, 706, 201, 197
+	rotate: 90
+R_chest N
+	bounds: 1715, 112, 201, 197
+R_leg 01
+	bounds: 480, 835, 272, 687
+	offsets: 0, 35, 272, 722
+R_leg02
+	bounds: 754, 1113, 158, 701
+	rotate: 90
+R_leg03
+	bounds: 1288, 385, 127, 297
+	rotate: 90
+Rear
+	bounds: 1918, 154, 59, 75
+Reye
+	bounds: 1109, 4, 96, 41
+Reye_Ball F
+	bounds: 1921, 1332, 47, 64
+	rotate: 90
+Reye_DownBrown
+	bounds: 1432, 1055, 56, 17
+	rotate: 90
+Reye_Heightbowse
+	bounds: 1690, 138, 57, 23
+	rotate: 90
+Reye_White
+	bounds: 1247, 886, 75, 63
+Reye_brush
+	bounds: 1993, 1183, 99, 24
+	rotate: 90
+Reye_mask
+	bounds: 1688, 2, 108, 105
+	offsets: 1, 0, 111, 107
+	rotate: 90
+Reye_mask Top
+	bounds: 1835, 488, 119, 75
+	rotate: 90
+Reye_maskDown
+	bounds: 1918, 231, 89, 59
+	offsets: 4, 3, 99, 80
+	rotate: 90
+Reyep 2
+	bounds: 594, 2, 19, 30
+	offsets: 0, 0, 20, 35
+	rotate: 90
+body
+	bounds: 2, 687, 476, 835
+bra
+	bounds: 1364, 886, 378, 153
+	offsets: 0, 0, 378, 181
+detached collar
+	bounds: 1522, 197, 191, 112
+detached collar BACk
+	bounds: 1838, 912, 127, 62
+detached collar_bow
+	bounds: 1838, 976, 139, 61
+hair shdow
+	bounds: 1288, 665, 307, 219
+hair_back_brownL
+	bounds: 739, 6, 113, 269
+	rotate: 90
+hair_back_brownR
+	bounds: 1010, 47, 72, 247
+	rotate: 90
+hair_back_puper
+	bounds: 1457, 1041, 405, 286
+light_smileR
+	bounds: 1979, 992, 52, 33
+	offsets: 1, 1, 53, 34
+light_smileW
+	bounds: 1832, 320, 53, 25
+	offsets: 0, 1, 54, 26
+mouth_anrgy
+	bounds: 1658, 10, 40, 26
+	offsets: 1, 1, 42, 27
+	rotate: 90
+mouth_shy
+	bounds: 1569, 328, 55, 16
+	offsets: 1, 0, 56, 16
+	rotate: 90
+mouth_sock
+	bounds: 1247, 825, 59, 24
+	rotate: 90
+neck
+	bounds: 1921, 1381, 141, 108
+	rotate: 90
+pink_blush
+	bounds: 1048, 121, 318, 216
+	offsets: 2, 6, 320, 250
+	rotate: 90
+shadiw_sock
+	bounds: 758, 121, 320, 288
+	rotate: 90
