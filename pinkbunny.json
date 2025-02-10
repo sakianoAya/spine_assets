@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "2Uh4FGgCXTg",
+	"hash": "8WB64Z+MBJ4",
 	"spine": "4.2.39",
 	"x": -954.54,
 	"y": 41,
@@ -2074,6 +2074,18 @@
 ],
 "animations": {
 	"ami": {
+		"slots": {
+			"L_browse_angry": {
+				"attachment": [
+					{}
+				]
+			},
+			"R_browse_angry": {
+				"attachment": [
+					{}
+				]
+			}
+		},
 		"bones": {
 			"Main_CT": {
 				"rotate": [
@@ -4025,6 +4037,18 @@
 		}
 	},
 	"animation": {
+		"slots": {
+			"L_browse_angry": {
+				"attachment": [
+					{}
+				]
+			},
+			"R_browse_angry": {
+				"attachment": [
+					{}
+				]
+			}
+		},
 		"bones": {
 			"Ctrl_body2": {
 				"translate": [
@@ -4048,6 +4072,11 @@
 					{}
 				]
 			},
+			"L_browse_angry": {
+				"attachment": [
+					{}
+				]
+			},
 			"L_browse _sock": {
 				"attachment": [
 					{ "name": "L_browse _sock" }
@@ -4059,6 +4088,11 @@
 				]
 			},
 			"R_browse": {
+				"attachment": [
+					{}
+				]
+			},
+			"R_browse_angry": {
 				"attachment": [
 					{}
 				]
@@ -6070,6 +6104,18 @@
 		}
 	},
 	"Idle": {
+		"slots": {
+			"L_browse_angry": {
+				"attachment": [
+					{}
+				]
+			},
+			"R_browse_angry": {
+				"attachment": [
+					{}
+				]
+			}
+		},
 		"bones": {
 			"Main_CT": {
 				"rotate": [
@@ -8021,6 +8067,18 @@
 		}
 	},
 	"Idlebackup": {
+		"slots": {
+			"L_browse_angry": {
+				"attachment": [
+					{}
+				]
+			},
+			"R_browse_angry": {
+				"attachment": [
+					{}
+				]
+			}
+		},
 		"bones": {
 			"Main_CT": {
 				"rotate": [
@@ -11427,6 +11485,16 @@
 			"light_smileW": {
 				"attachment": [
 					{ "name": "light_smileW" }
+				]
+			},
+			"L_browse_angry": {
+				"attachment": [
+					{}
+				]
+			},
+			"R_browse_angry": {
+				"attachment": [
+					{}
 				]
 			}
 		},
