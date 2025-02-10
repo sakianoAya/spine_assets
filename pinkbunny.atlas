@@ -1,268 +1,211 @@
 pinkbunny.png
-	size: 2033, 1524
-	filter: Linear, Linear
-	pma: true
-	scale: 0.5
+size:2017,2033
+filter:Linear,Linear
+pma:true
+scale:0.57
 Face
-	bounds: 754, 443, 320, 379
+bounds:1396,1601,365,432
 Face _Mouth
-	bounds: 478, 162, 39, 31
+bounds:446,6,44,35
 Face_Noise
-	bounds: 1990, 390, 41, 44
+bounds:1574,751,47,50
 Fakeear
-	bounds: 2, 191, 494, 423
-	rotate: 90
+bounds:831,1551,563,482
 Hair_frowm3
-	bounds: 1266, 77, 115, 255
-	rotate: 90
+bounds:874,51,131,291
 Hair_frown1
-	bounds: 478, 23, 137, 259
-	offsets: 2, 0, 139, 259
-	rotate: 90
+bounds:714,11,158,295
 Hair_frown2
-	bounds: 1587, 311, 160, 243
-	rotate: 90
+bounds:678,308,182,277
 Hair_inside1
-	bounds: 1207, 2, 26, 93
-	rotate: 90
+bounds:1737,624,30,105
 Hair_inside2
-	bounds: 478, 2, 19, 114
-	offsets: 1, 0, 20, 115
-	rotate: 90
+bounds:874,26,23,131
+rotate:90
 Hair_sideL
-	bounds: 2, 18, 171, 474
-	rotate: 90
+bounds:1071,682,194,540
 Hair_sideR
-	bounds: 1447, 1329, 193, 472
-	rotate: 90
+bounds:849,684,220,538
 Hair_topside
-	bounds: 1076, 441, 381, 210
-	offsets: 2, 10, 385, 220
-	rotate: 90
+bounds:1763,1595,438,250
+rotate:90
 L_ASS
-	bounds: 1940, 604, 100, 59
-	rotate: 90
+bounds:1564,89,114,67
 L_FakeearP2
-	bounds: 1266, 194, 254, 189
+bounds:1008,391,289,215
+rotate:90
 L_Leg 02
-	bounds: 754, 951, 160, 608
-	offsets: 0, 12, 160, 646
-	rotate: 90
+bounds:494,343,182,736
 L_Leg 03
-	bounds: 1864, 1039, 127, 288
+bounds:1591,401,144,328
 L_Leg01
-	bounds: 754, 1273, 249, 691
-	offsets: 0, 53, 249, 744
-	rotate: 90
+bounds:545,1185,284,848
 L_arm
-	bounds: 754, 824, 125, 491
-	rotate: 90
+bounds:1267,662,143,560
 L_balltouch
-	bounds: 480, 687, 72, 49
-	offsets: 5, 6, 80, 65
+bounds:1007,0,91,74
 L_browse
-	bounds: 1993, 1027, 72, 28
-	rotate: 90
+bounds:1294,1233,82,32
 L_browse _sock
-	bounds: 1302, 7, 94, 21
-	offsets: 0, 1, 95, 23
+bounds:1991,1485,108,26
+rotate:90
 L_browse_angry
-	bounds: 1993, 1101, 80, 29
-	offsets: 1, 0, 82, 30
-	rotate: 90
+bounds:351,7,93,34
 L_chest
-	bounds: 1626, 473, 207, 202
+bounds:1784,624,235,230
+rotate:90
 L_chest N
-	bounds: 1597, 677, 207, 202
-	rotate: 90
+bounds:351,43,235,230
+rotate:90
 L_handF
-	bounds: 1523, 52, 67, 163
-	offsets: 0, 0, 72, 168
-	rotate: 90
+bounds:1008,307,82,192
+rotate:90
 L_handN
-	bounds: 1288, 514, 149, 336
-	offsets: 0, 187, 149, 523
-	rotate: 90
+bounds:678,587,169,596
 L_hand_F1
-	bounds: 1259, 30, 45, 140
-	rotate: 90
+bounds:1100,0,51,160
+rotate:90
 L_hand_F2
-	bounds: 1912, 436, 70, 99
-	rotate: 90
+bounds:1883,316,80,112
+rotate:90
 L_hand_F3
-	bounds: 1364, 1041, 70, 66
-	rotate: 90
+bounds:1680,61,79,75
 L_hand_F4
-	bounds: 1918, 112, 71, 40
+bounds:1844,48,80,46
+rotate:90
 L_hand_FN
-	bounds: 1744, 909, 92, 130
+bounds:1233,53,105,148
+rotate:90
 Lear
-	bounds: 1510, 2, 48, 81
-	rotate: 90
+bounds:1454,7,54,92
+rotate:90
 Leye
-	bounds: 1993, 1284, 95, 38
-	rotate: 90
+bounds:1961,206,108,43
+rotate:90
 Leye_Ball F
-	bounds: 1593, 2, 48, 63
-	rotate: 90
+bounds:1962,132,55,72
 Leye_DownBrown
-	bounds: 1266, 385, 54, 11
-	rotate: 90
+bounds:1769,668,61,13
+rotate:90
 Leye_HeightBrown
-	bounds: 1324, 886, 63, 17
-	rotate: 90
+bounds:1202,317,72,19
+rotate:90
 Leye_brush
-	bounds: 1010, 3, 97, 42
-Leye_mask
-	bounds: 1835, 609, 103, 95
+bounds:1262,4,110,47
 Leye_mask down
-	bounds: 1888, 322, 97, 51
-	offsets: 10, 0, 108, 75
+bounds:1452,165,123,85
 Leye_mask top
-	bounds: 1401, 3, 107, 72
-	offsets: 2, 9, 109, 81
+bounds:545,1091,124,92
 Leye_white
-	bounds: 1909, 54, 71, 56
+bounds:1761,65,81,63
 Leyep2
-	bounds: 1744, 886, 21, 30
-	rotate: 90
+bounds:1991,1382,23,34
 R_ASS
-	bounds: 1888, 375, 100, 59
+bounds:1564,20,114,67
 R_FakeearP2
-	bounds: 558, 162, 262, 198
-	rotate: 90
+bounds:1763,1294,299,226
+rotate:90
 R_HandN
-	bounds: 558, 426, 194, 407
-	offsets: 0, 0, 194, 409
+bounds:1412,803,221,466
 R_Hand_F
-	bounds: 1523, 121, 74, 165
-	rotate: 90
+bounds:1233,160,84,188
+rotate:90
 R_Hand_F1
-	bounds: 1832, 347, 54, 124
-	offsets: 0, 0, 54, 127
+bounds:1591,338,61,144
+rotate:90
 R_Hand_F2
-	bounds: 1912, 508, 94, 92
-	offsets: 0, 0, 94, 98
-	rotate: 90
+bounds:1852,203,107,111
 R_Hand_F3
-	bounds: 480, 738, 95, 76
-	offsets: 0, 0, 95, 88
-	rotate: 90
+bounds:1454,63,108,100
 R_Hand_F4
-	bounds: 1967, 917, 53, 57
-	offsets: 1, 0, 54, 65
+bounds:494,280,61,74
+rotate:90
 R_Hand_FM
-	bounds: 1795, 3, 107, 112
-	offsets: 0, 0, 107, 115
-	rotate: 90
+bounds:1452,252,121,131
+rotate:90
 R_arm
-	bounds: 427, 213, 129, 472
+bounds:1635,731,147,538
 R_balltouch
-	bounds: 1522, 311, 72, 45
-	offsets: 5, 5, 82, 56
-	rotate: 90
+bounds:1692,138,93,63
 R_browse
-	bounds: 2023, 1028, 71, 8
-	offsets: 0, 0, 73, 8
-	rotate: 90
+bounds:714,0,83,9
 R_browse_angry
-	bounds: 1909, 7, 75, 45
-	offsets: 1, 1, 77, 47
+bounds:1892,44,88,54
+rotate:90
 R_browse_sock
-	bounds: 427, 195, 88, 16
-	offsets: 0, 0, 89, 16
+bounds:1548,0,101,18
 R_chest
-	bounds: 1801, 706, 201, 197
-	rotate: 90
+bounds:1007,76,229,224
+rotate:90
 R_chest N
-	bounds: 1715, 112, 201, 197
+bounds:1737,398,229,224
 R_leg 01
-	bounds: 480, 835, 272, 687
-	offsets: 0, 35, 272, 722
+bounds:0,256,310,823
 R_leg02
-	bounds: 754, 1113, 158, 701
-	rotate: 90
+bounds:312,280,180,799
 R_leg03
-	bounds: 1288, 385, 127, 297
-	rotate: 90
+bounds:862,344,144,338
 Rear
-	bounds: 1918, 154, 59, 75
+bounds:1875,134,67,85
+rotate:90
 Reye
-	bounds: 1109, 4, 96, 41
+bounds:1968,513,109,46
+rotate:90
 Reye_Ball F
-	bounds: 1921, 1332, 47, 64
-	rotate: 90
+bounds:1948,57,54,73
 Reye_DownBrown
-	bounds: 1432, 1055, 56, 17
-	rotate: 90
+bounds:1100,55,64,19
 Reye_Heightbowse
-	bounds: 1690, 138, 57, 23
-	rotate: 90
+bounds:1991,1418,65,26
+rotate:90
 Reye_White
-	bounds: 1247, 886, 75, 63
+bounds:1787,130,86,71
 Reye_brush
-	bounds: 1993, 1183, 99, 24
-	rotate: 90
+bounds:1968,398,113,27
+rotate:90
 Reye_mask
-	bounds: 1688, 2, 108, 105
-	offsets: 1, 0, 111, 107
-	rotate: 90
+bounds:1723,203,127,121
 Reye_mask Top
-	bounds: 1835, 488, 119, 75
-	rotate: 90
+bounds:1585,251,136,85
 Reye_maskDown
-	bounds: 1918, 231, 89, 59
-	offsets: 4, 3, 99, 80
-	rotate: 90
+bounds:1577,158,113,91
 Reyep 2
-	bounds: 594, 2, 19, 30
-	offsets: 0, 0, 20, 35
-	rotate: 90
+bounds:542,18,23,39
+rotate:90
 body
-	bounds: 2, 687, 476, 835
+bounds:0,1081,543,952
 bra
-	bounds: 1364, 886, 378, 153
-	offsets: 0, 0, 378, 181
+bounds:1784,861,431,206
+rotate:90
 detached collar
-	bounds: 1522, 197, 191, 112
+bounds:1233,246,217,127
 detached collar BACk
-	bounds: 1838, 912, 127, 62
+bounds:1737,326,144,70
 detached collar_bow
-	bounds: 1838, 976, 139, 61
+bounds:1383,0,158,69
+rotate:90
 hair shdow
-	bounds: 1288, 665, 307, 219
+bounds:0,4,349,250
 hair_back_brownL
-	bounds: 739, 6, 113, 269
-	rotate: 90
+bounds:583,0,129,306
 hair_back_brownR
-	bounds: 1010, 47, 72, 247
-	rotate: 90
+bounds:1294,1267,82,282
 hair_back_puper
-	bounds: 1457, 1041, 405, 286
+bounds:831,1224,461,325
 light_smileR
-	bounds: 1979, 992, 52, 33
-	offsets: 1, 1, 53, 34
+bounds:1680,20,60,39
 light_smileW
-	bounds: 1832, 320, 53, 25
-	offsets: 0, 1, 54, 26
+bounds:570,311,62,30
 mouth_anrgy
-	bounds: 1658, 10, 40, 26
-	offsets: 1, 1, 42, 27
-	rotate: 90
+bounds:492,11,48,30
 mouth_shy
-	bounds: 1569, 328, 55, 16
-	offsets: 1, 0, 56, 16
-	rotate: 90
+bounds:1651,0,64,18
 mouth_sock
-	bounds: 1247, 825, 59, 24
-	rotate: 90
+bounds:1423,177,67,27
+rotate:90
 neck
-	bounds: 1921, 1381, 141, 108
-	rotate: 90
+bounds:1412,678,160,123
 pink_blush
-	bounds: 1048, 121, 318, 216
-	offsets: 2, 6, 320, 250
-	rotate: 90
+bounds:1225,375,364,285
 shadiw_sock
-	bounds: 758, 121, 320, 288
-	rotate: 90
+bounds:1396,1271,365,328
