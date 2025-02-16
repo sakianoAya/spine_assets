@@ -1,0 +1,153 @@
+sora.png
+	size: 2017, 1953
+	filter: Linear, Linear
+	pma: true
+	scale: 0.45
+EYE_HL_L
+	bounds: 1968, 1097, 47, 73
+	offsets: 2, 2, 51, 77
+EYE_HL_R
+	bounds: 1272, 185, 52, 72
+	offsets: 3, 3, 57, 77
+	rotate: 90
+EYE_L
+	bounds: 1044, 4, 60, 73
+	rotate: 90
+EYE_R
+	bounds: 758, 2, 56, 75
+	offsets: 1, 0, 57, 75
+EYE_white_L
+	bounds: 508, 153, 116, 72
+	offsets: 0, 0, 117, 72
+EYE_white_R
+	bounds: 1172, 153, 98, 84
+	offsets: 1, 6, 99, 90
+Face
+	bounds: 837, 405, 448, 498
+	offsets: 0, 0, 454, 498
+Face _LMask
+	bounds: 1876, 1172, 153, 99
+	rotate: 90
+Face _LmaslT
+	bounds: 1838, 389, 156, 97
+HAND_L
+	bounds: 341, 862, 302, 786
+HAND_R
+	bounds: 645, 913, 306, 735
+HAND_R _D
+	bounds: 644, 20, 112, 221
+Hair07
+	bounds: 1056, 1734, 217, 864
+	rotate: 90
+Hair08
+	bounds: 343, 144, 163, 716
+	offsets: 0, 86, 163, 802
+Hair09
+	bounds: 643, 243, 192, 617
+Hair10
+	bounds: 837, 239, 164, 507
+	rotate: 90
+Hair11
+	bounds: 343, 16, 126, 299
+	offsets: 0, 0, 126, 305
+	rotate: 90
+HairR_F
+	bounds: 508, 227, 133, 633
+	offsets: 16, 1, 154, 634
+HairR_F1
+	bounds: 1730, 600, 233, 347
+HairR_F2
+	bounds: 758, 79, 158, 299
+	rotate: 90
+Hair_LB
+	bounds: 2, 671, 337, 977
+Hair_LB2
+	bounds: 1611, 345, 117, 558
+Hair_RB
+	bounds: 1056, 1518, 214, 782
+	offsets: 0, 31, 214, 813
+	rotate: 90
+Hair_shadow
+	bounds: 1529, 1139, 345, 377
+	offsets: 1, 3, 348, 382
+Hand_R_D
+	bounds: 953, 1530, 97, 118
+L_eyebrow
+	bounds: 1952, 226, 161, 63
+	rotate: 90
+L_red
+	bounds: 1840, 1554, 178, 120
+	offsets: 19, 14, 248, 154
+	rotate: 90
+R_eyebrow
+	bounds: 645, 875, 128, 36
+R_mask
+	bounds: 1730, 345, 141, 106
+	rotate: 90
+R_maslD
+	bounds: 1059, 116, 111, 121
+R_red
+	bounds: 1876, 1327, 225, 115
+	offsets: 1, 2, 227, 118
+	rotate: 90
+TOP_B
+	bounds: 1346, 41, 431, 247
+	offsets: 67, 23, 556, 270
+	rotate: 90
+arm_l
+	bounds: 1595, 21, 322, 355
+	offsets: 0, 0, 322, 387
+	rotate: 90
+blush
+	bounds: 1671, 949, 295, 188
+	offsets: 22, 20, 339, 224
+bot_br_L
+	bounds: 1172, 123, 84, 28
+	offsets: 0, 0, 84, 35
+bot_br_R
+	bounds: 1838, 346, 78, 41
+bot_br_SHADOW_L
+	bounds: 1968, 1012, 83, 27
+	offsets: 0, 1, 83, 28
+	rotate: 90
+bot_br_SHADOW_R
+	bounds: 1059, 66, 86, 48
+fuku_DL
+	bounds: 1730, 488, 110, 278
+	rotate: 90
+fuku_DR
+	bounds: 953, 1122, 574, 394
+fuku_T
+	bounds: 953, 905, 716, 215
+mouth
+	bounds: 1272, 151, 64, 32
+	offsets: 2, 1, 68, 34
+nose
+	bounds: 1287, 413, 56, 59
+	offsets: 1, 1, 58, 62
+opai
+	bounds: 1287, 474, 429, 322
+	rotate: 90
+skin
+	bounds: 2, 3, 666, 339
+	rotate: 90
+table
+	bounds: 2, 1650, 1052, 301
+top_br_L
+	bounds: 1952, 106, 118, 52
+	rotate: 90
+top_br_M_L
+	bounds: 1922, 1808, 143, 88
+	offsets: 0, 0, 143, 92
+	rotate: 90
+top_br_M_R
+	bounds: 816, 10, 111, 67
+top_br_R
+	bounds: 1952, 9, 95, 56
+	rotate: 90
+top_br_SHADOW_L
+	bounds: 929, 22, 113, 55
+	offsets: 14, 39, 146, 94
+top_br_SHADOW_R
+	bounds: 1922, 1754, 91, 52
+	offsets: 0, 5, 91, 57
